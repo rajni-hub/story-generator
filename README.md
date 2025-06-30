@@ -2,6 +2,10 @@
 
 A beautiful and intuitive web application that generates creative short stories using Google's Gemini AI. Built with Streamlit, this app offers a modern, responsive interface for creating personalized stories across multiple genres.
 
+![Alt text](./assets/picture1.png)
+
+## 🎥 Demo
+[![Watch the video](https://drive.google.com/file/d/1E14loJ5JP-Ux3CTruh7qXSbiaoOX2L2C/view?usp=sharing)]
 
 ## Features
 
