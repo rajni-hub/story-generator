@@ -5,7 +5,9 @@ A beautiful and intuitive web application that generates creative short stories 
 ## 📸 App Preview
 
 ![Demo Screenshot](https://github.com/rajni-hub/story-generator/blob/main/assests/pic1.png?raw=true)
-
+![Demo Screenshot](https://github.com/rajni-hub/story-generator/blob/main/assests/pic2.png?raw=true)
+![Demo Screenshot](https://github.com/rajni-hub/story-generator/blob/main/assests/pic3.png?raw=true)
+![Demo Screenshot](https://github.com/rajni-hub/story-generator/blob/main/assests/pic4.png?raw=true)
 
 ## 🎥 Demo
 [![Watch the video](https://drive.google.com/file/d/1E14loJ5JP-Ux3CTruh7qXSbiaoOX2L2C/view?usp=sharing)]
