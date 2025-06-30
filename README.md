@@ -9,9 +9,6 @@ A beautiful and intuitive web application that generates creative short stories 
 ![Demo Screenshot](https://github.com/rajni-hub/story-generator/blob/main/assests/pic3.png?raw=true)
 ![Demo Screenshot](https://github.com/rajni-hub/story-generator/blob/main/assests/pic4.png?raw=true)
 
-## 🎥 Demo
-[![Watch the video](https://drive.google.com/file/d/1E14loJ5JP-Ux3CTruh7qXSbiaoOX2L2C/view?usp=sharing)]
-
 ## Features
 
 - **AI-Powered Story Generation**: Leverages Google Gemini 1.5 Flash for creative storytelling
@@ -119,17 +116,6 @@ The app uses Google's Gemini 1.5 Flash model via REST API:
 - **Authentication**: API key parameter
 - **Response Format**: JSON with generated content
 
-### Customization Options
-
-The story generation can be customized with:
-
-```python
-creativity_settings = {
-    "creative": {"temperature": 0.9, "top_p": 0.8},
-    "balanced": {"temperature": 0.7, "top_p": 0.8},
-    "focused": {"temperature": 0.3, "top_p": 0.8}
-}
-```
 
 ## API Configuration
 
@@ -198,10 +184,6 @@ Easy extension points:
 - Add new sample prompts in the `sample_prompts` dictionary
 - Customize the story length by changing `maxOutputTokens`
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -211,15 +193,6 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-### Ideas for Contributions
-
-- Additional story genres
-- Story length options (flash fiction, longer stories)
-- Export stories to different formats
-- Story rating and favorites system
-- Multiple language support
-- Character and plot development tools
 
 ## 📞 Support
 
